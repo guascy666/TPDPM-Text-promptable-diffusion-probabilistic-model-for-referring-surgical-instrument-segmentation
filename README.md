@@ -1,6 +1,6 @@
 # TPDPM-Text-promptable-diffusion-probabilistic-model-for-referring-surgical-instrument-segmentation
 # Introduction
-Hi, this is the code repository for " TPDPM:: Text promptable diffusion probabilistic model for referring surgical instrument segmentation" (Accepted by Computerized Medical Imaging and Graphics) in PyTorch.
+Hi, this is the code repository for " TPDPM: Text promptable diffusion probabilistic model for referring surgical instrument segmentation" (Accepted by Computerized Medical Imaging and Graphics) in PyTorch.
 
 ![avatar](https://github.com/guascy666/TPDPM-Text-promptable-diffusion-probabilistic-model-for-referring-surgical-instrument-segmentation/blob/main/model.png)
 
